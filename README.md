@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Francisco 👋
 
-<!--
-**franciscogazta/franciscogazta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD in Physics transitioning into Data Analytics and Business Intelligence.  
+I’m currently building projects focused on:
 
-Here are some ideas to get you started:
+- Exploratory Data Analysis (EDA)
+- Business Intelligence (Power BI)
+- SQL Analytics
+- Machine Learning (Classification Models)
+- Data Modeling & Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about transforming data into clear, actionable insights and building tools that support decision-making.
+
+🔭 Current projects (in progress):
+- Housing EDA + Power BI Dashboard  
+- Retail SQL Analytics  
+- Titanic Classification Model (ML)
+
+📫 How to reach me:
+- Email: franciscogazta@gmail.com  
+- LinkedIn: linkedin.com/in/franciscogazta  
+- GitHub: github.com/franciscogazta
+

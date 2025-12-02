@@ -11,12 +11,12 @@ I’m currently building projects focused on:
 
 I’m passionate about transforming data into clear, actionable insights and building tools that support decision-making.
 
-🔭 Current projects (in progress):
+Current projects (in progress):
 - Housing EDA + Power BI Dashboard  
 - Retail SQL Analytics  
 - Titanic Classification Model (ML)
 
-📫 How to reach me:
+How to reach me:
 - Email: franciscogazta@gmail.com  
 - LinkedIn: linkedin.com/in/franciscogazta  
 - GitHub: github.com/franciscogazta
